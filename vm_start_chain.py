@@ -1,3 +1,5 @@
+# Minjun Kim
+# GitHub Repo: https://github.com/minjunusc/ee250lab4
 import paho.mqtt.client as mqtt
 import socket
 import time
